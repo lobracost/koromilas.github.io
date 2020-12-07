@@ -9,4 +9,5 @@ redirect_from:
 ---
 
 I am Computer Scientist, mostly interested in the theory and the applications of Machine Learning.
+
 I recently received my undergraduate degree in ECE from National Technical University of Athens (NTUA).
