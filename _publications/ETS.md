@@ -1,5 +1,5 @@
 ---
-title: ""Modeling Intertemporal Trading of Emission Permits under Market Power"
+title: "Modeling Intertemporal Trading of Emission Permits under Market Power"
 collection: publications
 permalink: /publication/ETS
 excerpt: ''
